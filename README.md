@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software Engineer specialized in .NET & React</h3>
 
 ###
 
